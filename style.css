@@ -703,6 +703,15 @@ SHAPES
         font-size: 52px;
     }
 
+    #personal-logo {
+        width: 120px;
+      }
+      
+      .footer__logo--img {
+        width: 200px;
+        filter: invert(1);
+      }
+
 .header__para{
     font-size: 18px;
 }
